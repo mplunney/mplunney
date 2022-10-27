@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Mike. I work in healthcare. I like to use technology and data to improve it.
+[LinkedIn](https://www.linkedin.com/in/mike-lunney/)
+[Google Scholar](https://scholar.google.com/citations?user=uwdrlmAAAAAJ&hl=en)
 <!--
 **mplunney/mplunney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
